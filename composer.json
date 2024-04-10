@@ -23,14 +23,16 @@
   "bin": [
     "drush"
   ],
-  "repositories": {
-    "drupal_org": {
-      "type": "composer",
+  "repositories": [
+     {
+       "type": "composer",
       "url": "https://packages.drupal.org/8"
-    },
+     },
+    {
       "type": "vcs",
       "url": "https://github.com/soapy341/robo"
-  },
+    }
+  ],
   "require": {
     "php": ">=8.1",
     "ext-dom": "*",
