@@ -27,6 +27,10 @@
     "drupal_org": {
       "type": "composer",
       "url": "https://packages.drupal.org/8"
+    },
+    "robo": {
+      "type": "vcs",
+      "url": "https://github.com/soapy341/robo"
     }
   },
   "require": {
@@ -46,6 +50,7 @@
     "laravel/prompts": "^0.1.15",
     "league/container": "^4",
     "psy/psysh": "~0.11",
+    "robo/robo": "^4",
     "symfony/event-dispatcher": "^7",
     "symfony/filesystem": "^7",
     "symfony/finder": "^7",
