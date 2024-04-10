@@ -28,10 +28,8 @@
       "type": "composer",
       "url": "https://packages.drupal.org/8"
     },
-    "consolidation_custom": {
       "type": "vcs",
       "url": "https://github.com/soapy341/robo"
-    }
   },
   "require": {
     "php": ">=8.1",
@@ -42,7 +40,6 @@
     "consolidation/config": "^2.1.2",
     "consolidation/filter-via-dot-access-data": "^2.0.2",
     "consolidation/output-formatters": "^4.3.2",
-    "consolidation_custom/robo": "^4.0",
     "consolidation/site-alias": "^4",
     "consolidation/site-process": "^5.3.0",
     "grasmash/yaml-cli": "^3.1",
@@ -50,6 +47,7 @@
     "laravel/prompts": "^0.1.15",
     "league/container": "^4",
     "psy/psysh": "~0.11",
+    "robo/robo": "^4.0",
     "symfony/event-dispatcher": "^7",
     "symfony/filesystem": "^7",
     "symfony/finder": "^7",
