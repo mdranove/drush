@@ -49,7 +49,7 @@
     "psy/psysh": "~0.11",
     "symfony/event-dispatcher": "^7",
     "symfony/filesystem": "^7",
-    "symfony/finder": "^6",
+    "symfony/finder": "^7",
     "symfony/var-dumper": "^6.0",
     "symfony/yaml": "^6.0"
   },
