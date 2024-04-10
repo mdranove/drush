@@ -27,16 +27,11 @@
     "drupal_org": {
       "type": "composer",
       "url": "https://packages.drupal.org/8"
-    },
-    "chi-teck": {
-      "type": "vcs",
-      "url": "https://github.com/Chi-teck/drupal-code-generator"
     }
-  },
+  }
   "require": {
     "php": ">=8.1",
     "ext-dom": "*",
-    "chi-teck/drupal-code-generator": "symfony7",
     "composer-runtime-api": "^2.2",
     "composer/semver": "^1.4 || ^3",
     "consolidation/annotated-command": "^4.9.2",
