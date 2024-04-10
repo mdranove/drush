@@ -49,7 +49,7 @@
     "laravel/prompts": "^0.1.15",
     "league/container": "^4",
     "psy/psysh": "~0.11",
-    "robo/robo": "^4.0",
+    "consolidation/robo": "^4.0",
     "symfony/event-dispatcher": "^7",
     "symfony/filesystem": "^7",
     "symfony/finder": "^7",
